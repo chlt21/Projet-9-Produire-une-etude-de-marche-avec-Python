@@ -6,8 +6,8 @@ Objectif : Etudier le marché de notre entreprise grâce à du clustering et une
   - Explorer des données pour synthétiser des variables
   - Effectuer un clustering simple
   -
-#### Analyse exploratoire
-## Etape 1 - Importation des librairies et chargement des fichiers
+# Analyse exploratoire
+## Importation des librairies et chargement des fichiers
 
 ##  I - Fichier Disponibilité_Alimentaire
 
@@ -17,7 +17,7 @@ Objectif : Etudier le marché de notre entreprise grâce à du clustering et une
 
 ## IV - Fichier Stabilité politique
 
-#### Clustering / Visualisations
+# Clustering / Visualisations
 ## I - ANALYSE EN COMPOSANTES PRINCIPALES 
 
 ## II - CLASSIFICATION ASCENDANTE HIÉRARCHIQUE
