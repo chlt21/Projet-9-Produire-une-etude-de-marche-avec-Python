@@ -5,7 +5,7 @@ Objectif : Etudier le marché de notre entreprise grâce à du clustering et une
 #### Compétences cibles
   - Explorer des données pour synthétiser des variables
   - Effectuer un clustering simple
-  -
+  
 # Analyse exploratoire
 ## Importation des librairies et chargement des fichiers
 
